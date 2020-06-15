@@ -7,4 +7,27 @@ The control part is mainly responsible for receiving various responses from user
 Before you can run it, you first need to import the corresponding database file in the attachment, via localhost/phpmyadmin/  url input
 
 the login user username:Alice    Password:password  
-![image]()
+
+home page
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/home%20page.JPG)
+
+login page
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/Login%20form.JPG)
+ 
+ view record
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/data%20record.JPG)
+
+search page
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/search.JPG)
+
+view detail
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/view%20detail.JPG)
+
+add page
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/add%20form.JPG)
+
+add detail page
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/add%20detail.JPG)
+
+edit page
+![image](https://github.com/baisong516/PHP-little-project-ECAR-/blob/master/running%20result%20display/edit%20form.JPG)
